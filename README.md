@@ -1,4 +1,4 @@
-# Leaking and Exploiting `ObjRef`s via HTTP .NET Remoting
+# Leaking and Exploiting `ObjRef`s via HTTP .NET Remoting (CVE-2024-29059)
 
 This repository provides further details and resources on the [CODE WHITE blog post of the same name *Leaking ObjRefs to Exploit HTTP .NET Remoting*](https://code-white.com/blog/leaking-objrefs-to-exploit-http-dotnet-remoting/):
 
